@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Feliz Dia da Mulher, Meu Amor!</title>
+    <style>
+        body {
+            background-color: #ffe6f2;
+            font-family: 'Arial', sans-serif;
+            text-align: center;
+            padding: 50px;
+        }
+        .container {
+            background: white;
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+            display: inline-block;
+        }
+        h1 {
+            color: #e60073;
+        }
+        p {
+            color: #666;
+            font-size: 18px;
+        }
+        .heart {
+            color: #ff4d94;
+            font-size: 50px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Feliz Dia da Mulher, Meu Amor! 💖</h1>
+        <p>Você é a pessoa mais incrível que eu já conheci, simplesmente perfeita, engraçada e ciumentinha!<br>
+           Hoje e sempre, quero te lembrar o quanto te amo e admiro! 💕</p>
+        <div class="heart">❤️❤️❤️</div>
+    </div>
+</body>
+</html>
